@@ -20,7 +20,6 @@ and open the template in the editor.
             <thead>
                 <tr>
                     <th data-field="SC" class="col-md-2">Scoring criteria</th>
-                    <th data-field="Ob" class="col-md-2" data-checkbox="true">Onbelangrijk</th>
                     <th data-field="Mb" class="col-md-2">Minder belangrijk</th>
                     <th data-field="N" class="col-md-2">Neutraal</th>
                     <th data-field="B" class="col-md-2">Belangrijk</th>
@@ -171,3 +170,4 @@ and open the template in the editor.
         </table>
     </body>
 </html>
+
